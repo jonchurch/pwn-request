@@ -1,2 +1,4 @@
 bug:
   - base-branch: 'main'
+enhancement:
+  - base-branch: 'main'
